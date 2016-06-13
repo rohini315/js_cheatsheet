@@ -127,6 +127,7 @@ count_down(12)
 		var interest = ["art","food","travel","music"]
 		console.log(interest[1],interest[3])
 
+
 	// 3.Write a script that checks if a variable is less than 10. If it is, alert the user that their variable is less than 10. If it is not, using the console, let the user know that what the variable was and that it was greater than 10.
 	var num=3
 	// var num=200 
